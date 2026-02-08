@@ -22,3 +22,4 @@ Keunggulan decision tree adalah mudah dipahami, divisualisasikan, dan tidak meme
 ## Contoh Sederhana
 
 Misal, untuk menentukan apakah seseorang akan membeli komputer berdasarkan usia dan penghasilan, decision tree akan membagi data berdasarkan fitur-fitur tersebut hingga mencapai keputusan.
+hallo
